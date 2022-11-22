@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# MAC OS
+*.DS_Store
+
+#Ignore PWsandbox Directory and contents
+PWsandbox/**
+
 # Distribution / packaging
 .Python
 build/
